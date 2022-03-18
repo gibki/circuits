@@ -34502,7 +34502,7 @@ var App = /*#__PURE__*/function (_React$Component) {
 }(_react["default"].Component);
 
 (0, _reactDom.render)( /*#__PURE__*/_react["default"].createElement(_reactRouterDom.BrowserRouter, null, /*#__PURE__*/_react["default"].createElement(_reactRouterDom.Routes, null, /*#__PURE__*/_react["default"].createElement(_reactRouterDom.Route, {
-  path: "/",
+  path: "/circuits/",
   element: /*#__PURE__*/_react["default"].createElement(App, null)
 }))), document.getElementById('app'));
 
